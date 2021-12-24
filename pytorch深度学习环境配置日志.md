@@ -19,9 +19,9 @@
 
 ## 2.1. 安装 cuda
 
-桌面右键-NVIDIA控制面板
+首先需要查看本机支持的 cuda 版本，桌面右键-NVIDIA控制面板-帮助-系统信息-组件
 
-![右键打开NVIDIA控制面板](./figures/右键-NVIDIA控制面板.png)
+![NVIDIA控制面板-帮助-系统信息-组件](./figures/NVIDIA控制面板-帮助-系统信息-组件.png)
 
 ## 2.2. 安装 cudnn
 
