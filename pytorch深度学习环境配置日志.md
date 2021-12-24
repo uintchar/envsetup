@@ -21,7 +21,7 @@
 
 桌面右键-NVIDIA控制面板
 
-[]
+![右键打开NVIDIA控制面板](./figures/右键-NVIDIA控制面板.png)
 
 ## 2.2. 安装 cudnn
 
