@@ -40,6 +40,7 @@
 ## 2.2. 安装 cuDNN
 
 cuDNN 下载网址：https://developer.nvidia.com/rdp/cudnn-download
+
 下载前需要注册一个账号并登录。下载完成后得到的是一个压缩包，解压后将 `bin`、`include`、`lib` 目录中的文件复制到对应的 CUDA 安装目录 `C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA` 中的 `bin`、`include`、`lib` 目录
 
 ![下载cuDNN](figures/下载cnDNN.png)
