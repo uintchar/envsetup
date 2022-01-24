@@ -10,7 +10,9 @@
 
 SSH反向代理时，服务端主动发起SSH连接到代理服务器，将代理服务器指定端口接受到的请求通过SSH隧道转发到服务端的指定的端口上。
 
-https://blog.csdn.net/anychenp/article/details/104416200?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.nonecase
+- https://blog.csdn.net/anychenp/article/details/104416200?utm_medium=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.nonecase&depth_1-utm_source=distribute.pc_relevant.none-task-blog-BlogCommendFromMachineLearnPai2-4.nonecase
+
+- https://blog.csdn.net/xuxile/article/details/90179699?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_title~default-0.pc_relevant_paycolumn_v3&spm=1001.2101.3001.4242.1&utm_relevant_index=3
 
 **记得先为端口开放防火墙**
 
